@@ -1,0 +1,64 @@
+{
+  "configVersion": 1,
+  "timestamp": 1559238367639,
+  "index": "https://iamnaveenpaul.github.io/wtf/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js",
+        "https://iamnaveenpaul.github.io/wtf/favicon.ico",
+        "https://iamnaveenpaul.github.io/wtf/index.html",
+        "https://iamnaveenpaul.github.io/wtf/main.2007765d825d215b9fa7.js",
+        "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js",
+        "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js",
+        "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js",
+        "https://iamnaveenpaul.github.io/wtf/styles.e6a9d90b1b447be243ec.css",
+        "https://iamnaveenpaul.github.io/wtf/xlsx.f6e4d08b91d383b2ae88.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js": "15b2bd104251d62f8301daa822657b5019c828f7",
+    "https://iamnaveenpaul.github.io/wtf/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://iamnaveenpaul.github.io/wtf/index.html": "10f8dbefedcc699eae742aa3222889eb3bc00129",
+    "https://iamnaveenpaul.github.io/wtf/main.2007765d825d215b9fa7.js": "10593d2903e9ad9bbfdef4d66a1792ffdde716dc",
+    "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js": "2da67e97a3c85469dc53af1f480808549f3929cf",
+    "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js": "4aeaee4db0f0f78ce5116c592da54e3e8071b768",
+    "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js": "d11d7353d42d4bb40f47aa4edcb51cd6b16780b5",
+    "https://iamnaveenpaul.github.io/wtf/styles.e6a9d90b1b447be243ec.css": "7cbb4df6bef5198f7290e7a2f8175980052a5c47",
+    "https://iamnaveenpaul.github.io/wtf/xlsx.f6e4d08b91d383b2ae88.js": "75378023b220932c933ee2574485094350c63731"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
