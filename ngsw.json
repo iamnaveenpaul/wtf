@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1559239803318,
+  "timestamp": 1559428008332,
   "index": "https://iamnaveenpaul.github.io/wtf/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js",
         "https://iamnaveenpaul.github.io/wtf/favicon.ico",
         "https://iamnaveenpaul.github.io/wtf/index.html",
-        "https://iamnaveenpaul.github.io/wtf/main.e197454bfd9e124ec820.js",
+        "https://iamnaveenpaul.github.io/wtf/main.ce783bb0601a927c48f1.js",
         "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js",
         "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js",
         "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js",
@@ -25,6 +25,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "https://iamnaveenpaul.github.io/wtf/assets/data.json",
         "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png"
       ],
       "patterns": []
@@ -32,11 +33,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://iamnaveenpaul.github.io/wtf/assets/data.json": "6faf80d63ed320c7c0a8fb0f7cde236322517047",
+    "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png": "deb99ccb483e8e9c05d0018e08da81e1816c4e52",
     "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js": "15b2bd104251d62f8301daa822657b5019c828f7",
-    "https://iamnaveenpaul.github.io/wtf/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "https://iamnaveenpaul.github.io/wtf/index.html": "74faa6b78d64562401622a1f1e4346558df2c559",
-    "https://iamnaveenpaul.github.io/wtf/main.e197454bfd9e124ec820.js": "6b2466d305c8b703db38c394d7678765b19292e6",
+    "https://iamnaveenpaul.github.io/wtf/favicon.ico": "d408c62649bda40fff45d413fab36a69146c7aff",
+    "https://iamnaveenpaul.github.io/wtf/index.html": "d2723a31cc446e3ad75c03b61cea052c6a15153d",
+    "https://iamnaveenpaul.github.io/wtf/main.ce783bb0601a927c48f1.js": "cfe51f28a4c373265452a35a147012109b888687",
     "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js": "2da67e97a3c85469dc53af1f480808549f3929cf",
     "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js": "4aeaee4db0f0f78ce5116c592da54e3e8071b768",
     "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js": "d11d7353d42d4bb40f47aa4edcb51cd6b16780b5",
