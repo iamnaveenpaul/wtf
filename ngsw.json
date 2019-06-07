@@ -1,22 +1,22 @@
 {
   "configVersion": 1,
-  "timestamp": 1559589919046,
-  "index": "https://iamnaveenpaul.github.io/wtf/index.html",
+  "timestamp": 1559910247929,
+  "index": "https://paulytics.in/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js",
-        "https://iamnaveenpaul.github.io/wtf/favicon.ico",
-        "https://iamnaveenpaul.github.io/wtf/index.html",
-        "https://iamnaveenpaul.github.io/wtf/main.7ddbbc59104f35527081.js",
-        "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js",
-        "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js",
-        "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js",
-        "https://iamnaveenpaul.github.io/wtf/styles.2a20125a1493e562ab4c.css",
-        "https://iamnaveenpaul.github.io/wtf/xlsx.f6e4d08b91d383b2ae88.js"
+        "https://paulytics.in/canvg.2135d123bbd12a6f7994.js",
+        "https://paulytics.in/favicon.ico",
+        "https://paulytics.in/index.html",
+        "https://paulytics.in/main.7ddbbc59104f35527081.js",
+        "https://paulytics.in/pdfmake.5c71c298d977556cdbf2.js",
+        "https://paulytics.in/polyfills.d27e597f6c04d18a29fc.js",
+        "https://paulytics.in/runtime.4e1555385f4164de4228.js",
+        "https://paulytics.in/styles.2a20125a1493e562ab4c.css",
+        "https://paulytics.in/xlsx.f6e4d08b91d383b2ae88.js"
       ],
       "patterns": []
     },
@@ -25,25 +25,25 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://iamnaveenpaul.github.io/wtf/assets/data.json",
-        "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png"
+        "https://paulytics.in/assets/data.json",
+        "https://paulytics.in/assets/ngx-rocket-logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://iamnaveenpaul.github.io/wtf/assets/data.json": "2c2d7ca2cc8cad4b470571753956a059f4ea50a8",
-    "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png": "deb99ccb483e8e9c05d0018e08da81e1816c4e52",
-    "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js": "15b2bd104251d62f8301daa822657b5019c828f7",
-    "https://iamnaveenpaul.github.io/wtf/favicon.ico": "d408c62649bda40fff45d413fab36a69146c7aff",
-    "https://iamnaveenpaul.github.io/wtf/index.html": "f81fa7e179dc81367fb88ae18e4f47ce66999dc0",
-    "https://iamnaveenpaul.github.io/wtf/main.7ddbbc59104f35527081.js": "86ae8dda91b7eb244edb1ee0db6c93af6a41513b",
-    "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js": "2da67e97a3c85469dc53af1f480808549f3929cf",
-    "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js": "4aeaee4db0f0f78ce5116c592da54e3e8071b768",
-    "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js": "d11d7353d42d4bb40f47aa4edcb51cd6b16780b5",
-    "https://iamnaveenpaul.github.io/wtf/styles.2a20125a1493e562ab4c.css": "647871208a2f1af9fa0de4dbf9b1693009dd5c55",
-    "https://iamnaveenpaul.github.io/wtf/xlsx.f6e4d08b91d383b2ae88.js": "75378023b220932c933ee2574485094350c63731"
+    "https://paulytics.in/assets/data.json": "2c2d7ca2cc8cad4b470571753956a059f4ea50a8",
+    "https://paulytics.in/assets/ngx-rocket-logo.png": "deb99ccb483e8e9c05d0018e08da81e1816c4e52",
+    "https://paulytics.in/canvg.2135d123bbd12a6f7994.js": "15b2bd104251d62f8301daa822657b5019c828f7",
+    "https://paulytics.in/favicon.ico": "d408c62649bda40fff45d413fab36a69146c7aff",
+    "https://paulytics.in/index.html": "1abfd893bfaf2f4331a0e032bd2584a88c5f11d4",
+    "https://paulytics.in/main.7ddbbc59104f35527081.js": "86ae8dda91b7eb244edb1ee0db6c93af6a41513b",
+    "https://paulytics.in/pdfmake.5c71c298d977556cdbf2.js": "2da67e97a3c85469dc53af1f480808549f3929cf",
+    "https://paulytics.in/polyfills.d27e597f6c04d18a29fc.js": "4aeaee4db0f0f78ce5116c592da54e3e8071b768",
+    "https://paulytics.in/runtime.4e1555385f4164de4228.js": "d11d7353d42d4bb40f47aa4edcb51cd6b16780b5",
+    "https://paulytics.in/styles.2a20125a1493e562ab4c.css": "647871208a2f1af9fa0de4dbf9b1693009dd5c55",
+    "https://paulytics.in/xlsx.f6e4d08b91d383b2ae88.js": "75378023b220932c933ee2574485094350c63731"
   },
   "navigationUrls": [
     {
