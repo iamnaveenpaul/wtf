@@ -1,22 +1,22 @@
 {
   "configVersion": 1,
-  "timestamp": 1559910987260,
-  "index": "https://paulytics.in/index.html",
+  "timestamp": 1560167798600,
+  "index": "https://iamnaveenpaul.github.io/wtf/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://paulytics.in/canvg.2135d123bbd12a6f7994.js",
-        "https://paulytics.in/favicon.ico",
-        "https://paulytics.in/index.html",
-        "https://paulytics.in/main.a7fd40bb1e96c3da2d60.js",
-        "https://paulytics.in/pdfmake.5c71c298d977556cdbf2.js",
-        "https://paulytics.in/polyfills.d27e597f6c04d18a29fc.js",
-        "https://paulytics.in/runtime.4e1555385f4164de4228.js",
-        "https://paulytics.in/styles.2a20125a1493e562ab4c.css",
-        "https://paulytics.in/xlsx.f6e4d08b91d383b2ae88.js"
+        "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js",
+        "https://iamnaveenpaul.github.io/wtf/favicon.ico",
+        "https://iamnaveenpaul.github.io/wtf/index.html",
+        "https://iamnaveenpaul.github.io/wtf/main.fd3fc8c142a80ba88c8e.js",
+        "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js",
+        "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js",
+        "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js",
+        "https://iamnaveenpaul.github.io/wtf/styles.2a20125a1493e562ab4c.css",
+        "https://iamnaveenpaul.github.io/wtf/xlsx.f6e4d08b91d383b2ae88.js"
       ],
       "patterns": []
     },
@@ -25,25 +25,25 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://paulytics.in/assets/data.json",
-        "https://paulytics.in/assets/ngx-rocket-logo.png"
+        "https://iamnaveenpaul.github.io/wtf/assets/data.json",
+        "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://paulytics.in/assets/data.json": "2c2d7ca2cc8cad4b470571753956a059f4ea50a8",
-    "https://paulytics.in/assets/ngx-rocket-logo.png": "deb99ccb483e8e9c05d0018e08da81e1816c4e52",
-    "https://paulytics.in/canvg.2135d123bbd12a6f7994.js": "15b2bd104251d62f8301daa822657b5019c828f7",
-    "https://paulytics.in/favicon.ico": "d408c62649bda40fff45d413fab36a69146c7aff",
-    "https://paulytics.in/index.html": "1beabe301b61e7527c8d939d0d86c428901f3c34",
-    "https://paulytics.in/main.a7fd40bb1e96c3da2d60.js": "b4e915af3055fad84f07d47f232075c3016a6157",
-    "https://paulytics.in/pdfmake.5c71c298d977556cdbf2.js": "2da67e97a3c85469dc53af1f480808549f3929cf",
-    "https://paulytics.in/polyfills.d27e597f6c04d18a29fc.js": "4aeaee4db0f0f78ce5116c592da54e3e8071b768",
-    "https://paulytics.in/runtime.4e1555385f4164de4228.js": "d11d7353d42d4bb40f47aa4edcb51cd6b16780b5",
-    "https://paulytics.in/styles.2a20125a1493e562ab4c.css": "647871208a2f1af9fa0de4dbf9b1693009dd5c55",
-    "https://paulytics.in/xlsx.f6e4d08b91d383b2ae88.js": "75378023b220932c933ee2574485094350c63731"
+    "https://iamnaveenpaul.github.io/wtf/assets/data.json": "2c2d7ca2cc8cad4b470571753956a059f4ea50a8",
+    "https://iamnaveenpaul.github.io/wtf/assets/ngx-rocket-logo.png": "deb99ccb483e8e9c05d0018e08da81e1816c4e52",
+    "https://iamnaveenpaul.github.io/wtf/canvg.2135d123bbd12a6f7994.js": "15b2bd104251d62f8301daa822657b5019c828f7",
+    "https://iamnaveenpaul.github.io/wtf/favicon.ico": "d408c62649bda40fff45d413fab36a69146c7aff",
+    "https://iamnaveenpaul.github.io/wtf/index.html": "8758c62db2bfe7e3671b08f59de23165290b705c",
+    "https://iamnaveenpaul.github.io/wtf/main.fd3fc8c142a80ba88c8e.js": "14d2f869c421af1cd556a0fdabce4505af9cba60",
+    "https://iamnaveenpaul.github.io/wtf/pdfmake.5c71c298d977556cdbf2.js": "2da67e97a3c85469dc53af1f480808549f3929cf",
+    "https://iamnaveenpaul.github.io/wtf/polyfills.d27e597f6c04d18a29fc.js": "4aeaee4db0f0f78ce5116c592da54e3e8071b768",
+    "https://iamnaveenpaul.github.io/wtf/runtime.4e1555385f4164de4228.js": "d11d7353d42d4bb40f47aa4edcb51cd6b16780b5",
+    "https://iamnaveenpaul.github.io/wtf/styles.2a20125a1493e562ab4c.css": "647871208a2f1af9fa0de4dbf9b1693009dd5c55",
+    "https://iamnaveenpaul.github.io/wtf/xlsx.f6e4d08b91d383b2ae88.js": "75378023b220932c933ee2574485094350c63731"
   },
   "navigationUrls": [
     {
